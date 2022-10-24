@@ -21,7 +21,15 @@ module.exports = {
     editLinkPattern: ':repo/edit/:branch/:path',
     editLink: true,
     navbar: [
-      { text: 'Home', link: '/', },
+      { text: 'Home', link: '/' },
+      {
+        text: 'Infos',
+        children: [
+          { text: 'Links', link: '/infos/links.md' },
+          { text: 'Privacy', link: '/infos/privacy.md' },
+          { text: 'Imoressum', link: '/infos/impressum.md' },
+        ],
+      },
     ],
   },
   ),
