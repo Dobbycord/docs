@@ -23,11 +23,18 @@ module.exports = {
     navbar: [
       { text: 'Home', link: '/' },
       {
+        text: 'Cogs',
+        children: [
+          { text: 'Admin', link: '/cogs/admin.md' },
+          { text: 'Emojis', link: '/cogs/emojis.md' },
+          { text: 'Hogwarts', link: '/cogs/hogwarts.md' },
+        ],
+      },
+      {
         text: 'Infos',
         children: [
           { text: 'Links', link: '/infos/links.md' },
           { text: 'Privacy', link: '/infos/privacy.md' },
-          { text: 'Imoressum', link: '/infos/impressum.md' },
         ],
       },
     ],
