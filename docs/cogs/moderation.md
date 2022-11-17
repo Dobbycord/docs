@@ -12,7 +12,7 @@
 > The bot will say anything you want.
 > **Usage:** ``User with `manage_messages` permissions``   
 > **Examples:**     
-> `/say <text>
+> `/say <text>`
 
 ## `/embed`
 
