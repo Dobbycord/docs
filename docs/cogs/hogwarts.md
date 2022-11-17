@@ -2,7 +2,7 @@
 
 ## `/house`
 
-> Get your Hogwarts House from the Sorting Hat..     
+> Get your Hogwarts House from the Sorting Hat.   
 > **Usage:** `Everyone`   
 > **Examples:**     
 > `/sorting`

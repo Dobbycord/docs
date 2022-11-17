@@ -29,6 +29,7 @@ module.exports = {
           { text: 'Emotes', link: '/cogs/emotes.md' },
           { text: 'Hogwarts', link: '/cogs/hogwarts.md' },
           { text: 'Immunelist', link: '/cogs/immune.md' },
+          { text: 'Meta', link: '/cogs/meta.md' },
           { text: 'Moderation', link: '/cogs/moderation.md' },
         ],
       },
