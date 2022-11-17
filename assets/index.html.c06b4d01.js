@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Dobbycord","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668700993000,"contributors":[{"name":"Nigl","email":"niklas.goetzen@gmail.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
