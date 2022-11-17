@@ -2,10 +2,10 @@
 
 ## `/house`
 
-> Get a random house from Hogwarts.     
+> Get your Hogwarts House from the Sorting Hat..     
 > **Usage:** `Everyone`   
 > **Examples:**     
-> `/house`
+> `/sorting`
 
 ## `/houses`
 
@@ -16,7 +16,7 @@
 
 ## `/school`
 
-> Overwiew of Hogwarts     
+> Get information about Hogwarts.
 > **Usage:** `Everyone`   
 > **Examples:**     
-> `/school`
+> `/hogwarts`

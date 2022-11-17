@@ -25,9 +25,11 @@ module.exports = {
       {
         text: 'Cogs',
         children: [
-          { text: 'Admin', link: '/cogs/admin.md' },
-          { text: 'Emojis', link: '/cogs/emojis.md' },
+          { text: 'Blacklist', link: '/cogs/blacklist.md' },
+          { text: 'Emotes', link: '/cogs/emotes.md' },
           { text: 'Hogwarts', link: '/cogs/hogwarts.md' },
+          { text: 'Immunelist', link: '/cogs/immune.md' },
+          { text: 'Moderation', link: '/cogs/moderation.md' },
         ],
       },
       {

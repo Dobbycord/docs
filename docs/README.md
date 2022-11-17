@@ -7,5 +7,5 @@
 ![Formatting](<https://img.shields.io/badge/formatting-pep8-FFD43B.svg>)
 
 ::: tip
-to be continued...
+use `/help` to get info about the commands
 :::
